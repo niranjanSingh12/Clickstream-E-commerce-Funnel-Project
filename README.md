@@ -130,9 +130,6 @@ This dashboard helps teams:
 **Niranjan Singh**  
 Aspiring Data / BI Analyst  
 
-🔗 LinkedIn: *Add your LinkedIn link here*  
-📧 Email: *Add your email here*
+
 
 ---
-
-⭐ If you find this project useful, feel free to star the repository!
