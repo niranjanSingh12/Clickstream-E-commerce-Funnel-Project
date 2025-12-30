@@ -125,6 +125,28 @@ This dashboard helps teams:
 3. Use slicers (Date, Device, Traffic Source) to explore insights
 
 ---
+## 📸 Screenshots
+
+### 🔹 Conversion Funnel Analysis
+Shows the complete e-commerce user journey from Homepage to Purchase and highlights key drop-off stages across the funnel.
+
+![Conversion Funnel](conversion_funnel.png)
+
+---
+
+### 🔹 Traffic & Campaign Performance Analysis
+Analyzes revenue, conversion rate, and sessions by traffic source to identify high-performing and low-quality marketing channels.
+
+![Traffic & Campaign Performance](traffic_campaign_performance.png)
+
+---
+
+### 🔹 Cart Drop-Off Analysis
+Focuses on sessions where users added items to cart but did not complete checkout, with breakdowns by device, traffic source, and product.
+
+![Cart Drop-Off Analysis](cart_dropoff_analysis.png)
+
+---
 
 ## 👤 Author
 **Niranjan Singh**  
